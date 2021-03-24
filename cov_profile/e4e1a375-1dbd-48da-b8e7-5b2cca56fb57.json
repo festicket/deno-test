@@ -1,0 +1,1 @@
+{"scriptId":"64","url":"file:///Users/josephbushell/Repos/deno-test/utils.ts","functions":[{"functionName":"","ranges":[{"startOffset":0,"endOffset":334,"count":1}],"isBlockCoverage":true},{"functionName":"add","ranges":[{"startOffset":7,"endOffset":47,"count":1}],"isBlockCoverage":true}]}
